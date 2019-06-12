@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444640925963",
+    "firebase_url": "https://realtimeeducation.firebaseio.com",
+    "project_id": "realtimeeducation",
+    "storage_bucket": "realtimeeducation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444640925963:android:84187fc8c8a50c1c",
+        "android_client_info": {
+          "package_name": "kz.devup.deaf_mute_educational_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444640925963-cajjfred4fjfq1ckngtroiema17e0q25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBviXRag46g8DBKX7_WWcl1V3tlQZj4ewU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444640925963-cajjfred4fjfq1ckngtroiema17e0q25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
